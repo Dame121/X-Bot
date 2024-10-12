@@ -1,0 +1,118 @@
+{
+    "quotes": [
+        {
+            "text": "The best way to predict the future is to create it.",
+            "author": "Peter Drucker",
+            "theme": "Motivation",
+            "used": false
+        },
+        {
+            "text": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon",
+            "theme": "Life",
+            "used": false
+        },
+        {
+            "text": "People think focus means saying yes to the thing you've got to focus on. It means saying no to the hundred other good ideas that there are. You have to pick carefully.",
+            "author": "Steve Jobs",
+            "theme": "Life",
+            "used": false
+        },
+        {
+            "text": "Do not judge me by my success, judge me by how many times I fell down and got back up again.",
+            "author": "Nelson Mandela",
+            "theme": "Resilience",
+            "used": true
+        },
+        {
+            "text": "The oak fought the wind and was broken, the willow bent when it must and survived.",
+            "author": "Robert Jordan",
+            "theme": "Resilience",
+            "used": false
+        },
+        {
+            "text": "The human capacity for burden is like bamboo far more flexible than you'd ever believe at first glance.",
+            "author": "Jodi Picoult",
+            "theme": "Resilience",
+            "used": false
+        },
+        {
+            "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+            "author": "Mary Anne Radmacher",
+            "theme": "Resilience",
+            "used": false
+        },
+        {
+            "text": "Life doesn't get easier or more forgiving, we get stronger and more resilient.",
+            "author": "Steve Maraboli",
+            "theme": "Resilience",
+            "used": false
+        },
+        {
+            "text": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs",
+            "theme": "Motivation",
+            "used": false
+        },
+        {
+            "text": "Don't watch the clock; do what it does. Keep going.",
+            "author": "Sam Levenson",
+            "theme": "Motivation",
+            "used": false
+        },
+        {
+            "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+            "author": "Winston Churchill",
+            "theme": "Motivation",
+            "used": false
+        },
+        {
+            "text": "The future belongs to those who believe in the beauty of their dreams.",
+            "author": "Eleanor Roosevelt",
+            "theme": "Motivation",
+            "used": false
+        },
+        {
+            "text": "The only limit to our realization of tomorrow is our doubts of today.",
+            "author": "Franklin D. Roosevelt",
+            "theme": "Motivation",
+            "used": false
+        },
+        {
+            "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+            "author": "Abraham Lincoln",
+            "theme": "Life",
+            "used": false
+        },
+        {
+            "text": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon",
+            "theme": "Life",
+            "used": true
+        },
+        {
+            "text": "You only live once, but if you do it right, once is enough.",
+            "author": "Mae West",
+            "theme": "Life",
+            "used": true
+        },
+        {
+            "text": "Anything is Possible !!!!!",
+            "author": "Anonymous",
+            "theme": "Life",
+            "used": false
+        },
+        {
+            "text": "Do the hardwork especially if you don't feel like it ",
+            "author": "Hamza",
+            "theme": "Motivation",
+            "used": true
+        },
+        {
+            "text": "Love all, trust a few, do wrong to none",
+            "author": "William Shakespeare",
+            "theme": "Love",
+            "used": false
+        }
+    ]
+}

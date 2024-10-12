@@ -1,14 +1,29 @@
-# Ignore virtual environment directory
-venv/
-
-# Ignore Python bytecode files
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Ignore environment configuration files
-.env
+# C extensions
+*.so
 
-# Ignore log files
-*.log
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# Ignore any other files or directories you want to exclude
+# Virtual environments
+venv/
+ENV/
+env/

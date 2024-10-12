@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quotes Manager</title>
+</head>
+<body>
+    <h1>All Quotes</h1>
+    <ul>
+        {% for quote in quotes %}
+            <li>"{{ quote.text }}" - {{ quote.author }} ({{ quote.theme }})</li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('add_quote') }}">Add a new quote</a>
+</body>
+</html>
