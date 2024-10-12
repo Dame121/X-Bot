@@ -1,6 +1,4 @@
-Here's a **README.md** template for your GitHub repository:
 
-```markdown
 # Daily Quote Bot
 
 The **Daily Quote Bot** is a Python-based bot that posts daily quotes to Twitter, with customizable themes and an easy-to-use interface for managing quotes. This project leverages the **Tweepy** library for Twitter API integration, **APScheduler** for scheduling daily posts, and a **Flask** web interface for quote management.
