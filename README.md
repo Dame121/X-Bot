@@ -150,4 +150,4 @@ Feel free to fork this repository and submit pull requests. Contributions are we
 - **Tweepy** is used for Twitter API interactions.
 - The **.env** file manages your API credentials securely.
 
-You can further customize or expand the sections based on your needs or if there are additional features added to your project!
+
